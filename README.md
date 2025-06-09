@@ -2,7 +2,7 @@
 
 Jogo de operações matemáticas básicas. <strong>Espero que gostem :D, Abraços <a href="https://github.com/SamuMeneDev" target="_blank">Samu Mene</a></strong>
 
-### Link do site: <a href="#">Calcule!</a>
+### Link do site: <a href="https://samumenedev.github.io/calcule/">Calcule!</a>
 
 ## ⚙️ Tecnologias Usadas
 
@@ -12,4 +12,4 @@ Jogo de operações matemáticas básicas. <strong>Espero que gostem :D, Abraço
 
 ## Preview
 
-<img alt="Preview Calcule!" src="#">
+<img alt="Preview Calcule!" src="./preview.png">
